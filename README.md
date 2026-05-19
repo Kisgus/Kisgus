@@ -1,33 +1,48 @@
-# Gustav Friis
+# Gus
 
-Operator-investor working across AI x crypto, digital assets, institutional
-workflows, and privacy-first agent systems.
+Founder at SAIBA. Building human-approved agent systems for consulting teams.
 
-> Useful systems need memory, privacy, verifiability, and human judgment.
+Humans decide. Agents execute. The company remembers.
 
 ## Start Here
 
 - [SAIBA Agency OS](https://github.com/Kisgus/saiba-agency-os) - live memory,
-  Hermes cards, and human-approved agents for expert-service teams.
+  Hermes cards, scoped agent work, and execution receipts.
 - [Customer Event Flywheel](https://github.com/Kisgus/customer-event-flywheel) -
-  how client signals become structured memory, decision cards, and safe next
-  actions.
-- [sai-platform](https://github.com/Kisgus/sai-platform) - MCP-first and
+  customer signals routed into memory and safe next actions.
+- [sai-platform](https://github.com/Kisgus/sai-platform) - MCP-first,
   eval-driven starter work for agent systems.
-- [UserOwned.AI](https://github.com/Kisgus/userowned-ai) - earlier AI x crypto
+- [UserOwned.AI](https://github.com/Kisgus/userowned-ai) - prior AI x crypto
   ecosystem intelligence work.
 
-## Current Thesis
+## What I Am Building
 
-I work on privacy-first AI x crypto systems:
+SAIBA is my current operating system for turning expert work into memory,
+decisions, and reviewed execution:
 
-- investment and market structure around digital assets,
-- agentic workflows for expert teams and institutions,
+- customer signals become structured memory,
+- Hermes cards route decisions to the right human,
+- agents receive scoped work packets instead of vague mandates,
+- risky artifacts go through review,
+- GitHub, Supabase, and gbrain keep the receipt,
+- the next sale or delivery starts smarter.
+
+Customer-facing sends stay human-approved. The point is not autonomy theater.
+The point is smaller teams with better memory, safer handoffs, and more useful
+systems.
+
+## Wider Thesis
+
+The broader thread in my work is AI x crypto, digital assets, and institutional
+workflows:
+
+- privacy-first agent systems,
+- public-sector and institutional governance,
 - open-web products and ecosystem intelligence,
-- public-sector governance around blockchain and AI,
+- investment and market structure around digital assets,
 - local-first systems with receipts and review gates.
 
-The common question:
+The question I keep coming back to:
 
 ```text
 How do AI, crypto, and digital assets become useful inside institutions without losing privacy, agency, or trust?
@@ -40,12 +55,13 @@ How do AI, crypto, and digital assets become useful inside institutions without 
 | [SAIBA Agency OS](https://github.com/Kisgus/saiba-agency-os) | Human-approved agent orchestration for expert-service teams | Public product narrative |
 | [Customer Event Flywheel](https://github.com/Kisgus/customer-event-flywheel) | Customer signals routed into memory and safe action | Public architecture spec |
 | [sai-platform](https://github.com/Kisgus/sai-platform) | MCP-first, eval-driven agent starter architecture | Technical workbench |
-| [UserOwned.AI](https://github.com/Kisgus/userowned-ai) | AI x crypto intelligence background | Prior research work |
+| [UserOwned.AI](https://github.com/Kisgus/userowned-ai) | AI x crypto intelligence background | Prior work |
 | [NEARWEEK automation](https://github.com/Kisgus/nearweek-automated-news-sourcing) | Content and intelligence automation for fast-moving ecosystems | Prior automation work |
 
 ## Value Add
 
-For founders, funds, and family offices, the useful edge is the combination:
+For founders, funds, family offices, and institutions, the useful edge is the
+combination:
 
 - 10 years in open-web and digital-asset infrastructure,
 - founder/operator pattern recognition,
@@ -56,8 +72,7 @@ For founders, funds, and family offices, the useful edge is the combination:
 
 ## Operating Principles
 
-- Privacy first.
-- Local-first where possible.
+- Useful systems need memory, privacy, verifiability, and human judgment.
 - Customer-facing sends stay human-approved.
 - Facts live in structured systems.
 - Stories live in narrative memory.
@@ -65,15 +80,14 @@ For founders, funds, and family offices, the useful edge is the combination:
 - Agents need receipts.
 - Institutions need proof, not slogans.
 
-## Writing Themes
+## Current Focus
 
-- agentic workflows with receipts,
-- digital assets and institutional adoption,
-- investment and market structure,
-- public-sector blockchain governance,
-- privacy-first AI systems,
-- AI x crypto intelligence,
-- open-web product strategy.
+```text
+Discovery call -> approved offer -> client intake -> delivery memory -> reusable learning
+```
+
+I am especially interested in the places where operational AI, privacy, crypto
+infrastructure, and institutional trust meet.
 
 ## Contact
 
