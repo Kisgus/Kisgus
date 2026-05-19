@@ -1,8 +1,9 @@
-# Gus
+# Gustav Friis
 
-Founder at SAIBA. Building human-approved agent systems for consulting teams.
+Founder/operator working across AI x crypto, digital assets, institutional
+workflows, and privacy-first agent systems.
 
-> Humans decide. Agents execute. The company remembers.
+> Useful systems need memory, privacy, verifiability, and human judgment.
 
 ## Start Here
 
@@ -11,24 +12,25 @@ Founder at SAIBA. Building human-approved agent systems for consulting teams.
 - [Customer Event Flywheel](https://github.com/Kisgus/customer-event-flywheel) -
   how client signals become structured memory, decision cards, and safe next
   actions.
-- [sai-platform](https://github.com/Kisgus/sai-platform) - earlier public
-  platform work around agentic consulting systems.
+- [sai-platform](https://github.com/Kisgus/sai-platform) - MCP-first and
+  eval-driven starter work for agent systems.
+- [UserOwned.AI](https://github.com/Kisgus/userowned-ai) - earlier AI x crypto
+  ecosystem intelligence work.
 
-## What I Am Building
+## Current Thesis
 
-SAIBA is an operating layer for AI consultancy work:
+I work on privacy-first AI x crypto systems:
 
-- discovery calls become reusable memory,
-- memory becomes pre-meeting packets and scoped offers,
-- customer events become Hermes decision cards,
-- approved cards become agent work packets,
-- risky artifacts go through review,
-- GitHub, Supabase, and gbrain keep the receipt.
+- agentic workflows for expert teams and institutions,
+- digital asset infrastructure and investment,
+- open-web products and ecosystem intelligence,
+- public-sector governance around blockchain and AI,
+- local-first systems with receipts and review gates.
 
-The wedge is simple:
+The common question:
 
 ```text
-Discovery call -> approved offer -> client intake -> delivery memory -> reusable learning
+How do AI, crypto, and digital assets become useful inside institutions without losing privacy, agency, or trust?
 ```
 
 ## Public Proof
@@ -37,26 +39,29 @@ Discovery call -> approved offer -> client intake -> delivery memory -> reusable
 | --- | --- | --- |
 | [SAIBA Agency OS](https://github.com/Kisgus/saiba-agency-os) | Human-approved agent orchestration for expert-service teams | Public product narrative |
 | [Customer Event Flywheel](https://github.com/Kisgus/customer-event-flywheel) | Customer signals routed into memory and safe action | Public architecture spec |
-| [sai-platform](https://github.com/Kisgus/sai-platform) | Earlier agentic consulting platform experiments | Prior technical work |
+| [sai-platform](https://github.com/Kisgus/sai-platform) | MCP-first, eval-driven agent starter architecture | Technical workbench |
 | [UserOwned.AI](https://github.com/Kisgus/userowned-ai) | AI x crypto intelligence background | Prior research work |
+| [NEARWEEK automation](https://github.com/Kisgus/nearweek-automated-news-sourcing) | Content and intelligence automation for fast-moving ecosystems | Prior automation work |
 
 ## Operating Principles
 
+- Privacy first.
+- Local-first where possible.
 - Customer-facing sends stay human-approved.
 - Facts live in structured systems.
 - Stories live in narrative memory.
 - Work lives in GitHub.
-- Decisions live in Hermes cards.
 - Agents need receipts.
-- Customer trust beats automation theater.
+- Institutions need proof, not slogans.
 
 ## Writing Themes
 
-- live memory for small expert teams,
-- sales automation without spam,
-- agent workflows with receipts,
+- agentic workflows with receipts,
+- digital assets and institutional adoption,
+- public-sector blockchain governance,
+- privacy-first AI systems,
 - AI x crypto intelligence,
-- human-first agency operations.
+- open-web product strategy.
 
 ## Contact
 
