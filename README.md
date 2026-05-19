@@ -1,6 +1,6 @@
 # Gustav Friis
 
-Founder/operator working across AI x crypto, digital assets, institutional
+Operator-investor working across AI x crypto, digital assets, institutional
 workflows, and privacy-first agent systems.
 
 > Useful systems need memory, privacy, verifiability, and human judgment.
@@ -21,8 +21,8 @@ workflows, and privacy-first agent systems.
 
 I work on privacy-first AI x crypto systems:
 
+- investment and market structure around digital assets,
 - agentic workflows for expert teams and institutions,
-- digital asset infrastructure and investment,
 - open-web products and ecosystem intelligence,
 - public-sector governance around blockchain and AI,
 - local-first systems with receipts and review gates.
@@ -43,6 +43,17 @@ How do AI, crypto, and digital assets become useful inside institutions without 
 | [UserOwned.AI](https://github.com/Kisgus/userowned-ai) | AI x crypto intelligence background | Prior research work |
 | [NEARWEEK automation](https://github.com/Kisgus/nearweek-automated-news-sourcing) | Content and intelligence automation for fast-moving ecosystems | Prior automation work |
 
+## Value Add
+
+For founders, funds, and family offices, the useful edge is the combination:
+
+- 10 years in open-web and digital-asset infrastructure,
+- founder/operator pattern recognition,
+- hands-on agentic workflow building,
+- product and go-to-market taste,
+- macro, policy, and governance context,
+- willingness to turn advice into working systems.
+
 ## Operating Principles
 
 - Privacy first.
@@ -58,6 +69,7 @@ How do AI, crypto, and digital assets become useful inside institutions without 
 
 - agentic workflows with receipts,
 - digital assets and institutional adoption,
+- investment and market structure,
 - public-sector blockchain governance,
 - privacy-first AI systems,
 - AI x crypto intelligence,
