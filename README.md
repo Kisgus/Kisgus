@@ -14,6 +14,8 @@ verification, and human judgment.
 
 ## Start Here
 
+The pinned shelf is the front door. The wider archive below is the map.
+
 - [SAIBA Agency OS](https://github.com/Kisgus/saiba-agency-os) - live memory,
   Hermes cards, scoped agent work, review gates, and execution receipts.
 - [Customer Event Flywheel](https://github.com/Kisgus/customer-event-flywheel) -
@@ -25,6 +27,8 @@ verification, and human judgment.
   intelligence work from the NEARWEEK lane.
 - [NEARWEEK automation](https://github.com/Kisgus/nearweek-automated-news-sourcing) -
   content and intelligence automation for fast-moving open-web ecosystems.
+- [This profile](https://github.com/Kisgus/Kisgus) - the public operator map
+  across AI x crypto, digital assets, governance, and privacy-first agents.
 
 ## Current Work
 
@@ -56,16 +60,61 @@ The technical workbench is MCP-first, testable, and receipt-oriented. I care
 about systems where the agent can explain what it saw, what it changed, why it
 changed it, and which human approved the public edge.
 
-## Public Work Shelf
+## Public Work Map
 
-| Project                                                                                        | What it shows                                                    | Lane           |
-| ---------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- | -------------- |
-| [saiba-agency-os](https://github.com/Kisgus/saiba-agency-os)                                   | Human-approved agent orchestration for expert-service teams      | SAIBA / agents |
-| [customer-event-flywheel](https://github.com/Kisgus/customer-event-flywheel)                   | Customer signals routed into memory, decisions, and safe action  | SAIBA / memory |
-| [sai-platform](https://github.com/Kisgus/sai-platform)                                         | MCP-first agent starter architecture and eval-driven development | Agent systems  |
-| [userowned-ai](https://github.com/Kisgus/userowned-ai)                                         | Prior AI x crypto intelligence and ecosystem signal work         | AI x crypto    |
-| [nearweek-automated-news-sourcing](https://github.com/Kisgus/nearweek-automated-news-sourcing) | Human-approved sourcing and publishing workflows for NEARWEEK    | Intelligence   |
-| [Kisgus](https://github.com/Kisgus/Kisgus)                                                     | This profile surface and public positioning shelf                | Profile        |
+This archive mixes current systems, prototypes, and older ecosystem artifacts.
+Together, they show the throughline: crypto, governance, intelligence,
+distribution, and now privacy-first agent workflows for institutions.
+
+### Current Operating Systems
+
+| Project                                                                      | What it shows                                                    | Read it as                     |
+| ---------------------------------------------------------------------------- | ---------------------------------------------------------------- | ------------------------------ |
+| [saiba-agency-os](https://github.com/Kisgus/saiba-agency-os)                 | Human-approved agent orchestration for expert-service teams      | Current SAIBA operating thesis |
+| [customer-event-flywheel](https://github.com/Kisgus/customer-event-flywheel) | Customer signals routed into memory, decisions, and safe action  | Audit trail and memory spine   |
+| [sai-platform](https://github.com/Kisgus/sai-platform)                       | MCP-first agent starter architecture and eval-driven development | Agent systems workbench        |
+| [Kisgus](https://github.com/Kisgus/Kisgus)                                   | This profile surface and public positioning shelf                | Public operator map            |
+
+### AI x Crypto Intelligence
+
+| Project                                                                                        | What it shows                                                  | Read it as                  |
+| ---------------------------------------------------------------------------------------------- | -------------------------------------------------------------- | --------------------------- |
+| [userowned-ai](https://github.com/Kisgus/userowned-ai)                                         | Prior AI x crypto intelligence and ecosystem signal work       | NEARWEEK intelligence lane  |
+| [userowned.ai](https://github.com/NEARWEEK/userowned.ai)                                       | Public-facing AI x crypto ecosystem intelligence platform      | Media and intelligence edge |
+| [userowned-ai-website](https://github.com/Kisgus/userowned-ai-website)                         | Website layer for AI x crypto intelligence                     | Distribution surface        |
+| [nearweek-automated-news-sourcing](https://github.com/Kisgus/nearweek-automated-news-sourcing) | Human-approved sourcing and publishing workflows for NEARWEEK  | Source-to-public workflow   |
+| [nearweek-intelligence-unified](https://github.com/Kisgus/nearweek-intelligence-unified)       | Unified intelligence interface for ecosystem monitoring        | Prototype integration layer |
+| [intelligence-network](https://github.com/Kisgus/intelligence-network)                         | Verifiable crypto news and agent-assisted ecosystem monitoring | Intelligence architecture   |
+| [nearweek-telegram-bot](https://github.com/Kisgus/nearweek-telegram-bot)                       | Telegram distribution for NEAR and crypto updates              | Distribution automation     |
+| [userowned-ai-buffer-airtable](https://github.com/Kisgus/userowned-ai-buffer-airtable)         | Buffer, Zapier, and Airtable workflow for content operations   | Content ops plumbing        |
+
+### Digital Asset Governance
+
+| Project                                                                                | What it shows                                          | Read it as                             |
+| -------------------------------------------------------------------------------------- | ------------------------------------------------------ | -------------------------------------- |
+| [multisig-tool](https://github.com/near/multisig-tool)                                 | Practical wallet and treasury coordination tooling     | Asset governance context               |
+| [proposals](https://github.com/Kisgus/proposals)                                       | House of Stake proposal context                        | Governance participation               |
+| [ui.grants](https://github.com/Kisgus/ui.grants)                                       | Grant application tooling for DAOs on NEAR             | DAO operations context                 |
+| [admin.news](https://github.com/Kisgus/admin.news)                                     | Earlier admin and publishing infrastructure            | Media operations history               |
+| [EIPs](https://github.com/Kisgus/EIPs)                                                 | Ethereum standards ecosystem exposure                  | Standards literacy                     |
+| [ethereum-org-website](https://github.com/Kisgus/ethereum-org-website)                 | Ethereum public-goods documentation context            | Ecosystem literacy                     |
+| [celo-monorepo](https://github.com/Kisgus/celo-monorepo)                               | Celo ecosystem exposure                                | Protocol ecosystem context             |
+| [GECO](https://github.com/Kisgus/GECO)                                                 | Gnosis Ecosystem Fund context                          | Ecosystem investment history           |
+| [Linkdrop-Relayer](https://github.com/Kisgus/Linkdrop-Relayer)                         | Link-based token distribution infrastructure           | Crypto onboarding infrastructure       |
+| [eth2-app](https://github.com/Kisgus/eth2-app)                                         | Early token transfer and wallet interaction experiment | Consumer crypto UX history             |
+| [CryptoLife](https://github.com/mikhaildobs/CryptoLife)                                | Hackathon-era crypto participation                     | Early ecosystem participation          |
+| [trustlines-network.github.io](https://github.com/Kisgus/trustlines-network.github.io) | Early decentralized credit network context             | Network and community currency history |
+
+### Prior Experiments
+
+| Project                                                                  | What it shows                                         | Read it as                  |
+| ------------------------------------------------------------------------ | ----------------------------------------------------- | --------------------------- |
+| [nft-dropshipping-shop](https://github.com/Kisgus/nft-dropshipping-shop) | Commerce, Shopify, and NFT ownership certificates     | Commerce and ownership test |
+| [spotify-app](https://github.com/Kisgus/spotify-app)                     | Web app authentication and media controls             | App-building experiment     |
+| [Cheria](https://github.com/Kisgus/Cheria)                               | Portfolio/client-style web work                       | Older web surface           |
+| [Kisgus.github.io](https://github.com/Kisgus/Kisgus.github.io)           | Earlier personal publishing surface                   | Legacy profile surface      |
+| [crypto-chrismas](https://github.com/Kisgus/crypto-chrismas)             | Early consumer crypto campaign experiment             | Prior experiment            |
+| [cryptoxmas.xyz-images](https://github.com/Kisgus/cryptoxmas.xyz-images) | Campaign media archive for a crypto giving experiment | Prior media artifact        |
 
 ## AI x Crypto and Digital Assets
 
